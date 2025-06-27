@@ -1,5 +1,5 @@
 # Hotel Booking Data Analysis (Excel Dashboard)
-This project analyzes hotel booking data using Microsoft Excel, with Power Query for data cleaning, Pivot Tables for analysis, and an interactive dashboard for visualization.
+This project presents a complete Excel-based analysis of hotel booking data to uncover insights into customer behavior, revenue patterns, cancellations, and key performance indicators (KPIs).
 
 # 🛠 Tools Used
   - Power Query – for data cleaning and transformation
