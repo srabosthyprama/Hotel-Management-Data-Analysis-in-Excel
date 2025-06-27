@@ -1,5 +1,5 @@
 # Hotel Booking Data Analysis (Excel Dashboard)
-This project presents a complete Excel-based analysis of hotel booking data to uncover insights into customer behavior, revenue patterns, cancellations, and key performance indicators (KPIs).
+This project offers a detailed Excel-based analysis of hotel booking data, providing actionable insights into reservation trends, guest demographics, cancellation rates, and financial performance. Built using core Excel tools, the dashboard is designed to support hotel managers in making informed operational and strategic decisions.
 
 # 🛠 Tools Used
   - Power Query – for data cleaning and transformation
